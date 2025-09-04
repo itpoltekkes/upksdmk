@@ -40,7 +40,7 @@ Servce Area
                                 <div class="col-md-6 col-xl-4">
                                     <div class="course-box style2">
                                         <div class="course-img">
-                                            <img src="assets/img/course/course_1_1.png" alt="img">
+                                            <img src="assets/img/course/flyerCI.jpg" alt="img">
                                         </div>
                                         <div class="course-content">
                                             <div class="course-rating">
@@ -61,7 +61,7 @@ Servce Area
                                 <div class="col-md-6 col-xl-4">
                                     <div class="course-box style2">
                                         <div class="course-img">
-                                            <img src="assets/img/course/course_1_1.png" alt="img">
+                                            <img src="assets/img/course/btcls.jpg" alt="img">
                                         </div>
                                         <div class="course-content">
                                             <div class="course-rating">
@@ -82,7 +82,7 @@ Servce Area
                                 <div class="col-md-6 col-xl-4">
                                     <div class="course-box style2">
                                         <div class="course-img">
-                                            <img src="assets/img/course/course_1_1.png" alt="img">
+                                            <img src="assets/img/course/no-image.png" alt="img">
                                         </div>
                                         <div class="course-content">
                                             <div class="course-rating">
